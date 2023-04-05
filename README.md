@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskritihub&label=Profile%20views&color=0e75b6&style=flat" alt="sanskritihub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskritihub" alt="sanskritihub" /></a> </p>
-
 - 🔭 I’m currently working on **NEWS APP using kotlin**
 
 - 🌱 I’m currently learning **implementation of API**
@@ -18,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanskriti-gupta-329682220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskriti-gupta-329682220" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sanskritisandhyagupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sanskritisandhyagupta/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sanskritisandhyagupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanskritisandhyagupta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
