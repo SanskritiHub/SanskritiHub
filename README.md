@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskritihub&label=Profile%20views&color=0e75b6&style=flat" alt="sanskritihub" /> </p>
 
-- 🔭 I’m currently working on **NEWS APP using kotlin**
+- ⚡ Embarking on the journey of learning JavaScript. 
 
-- 🌱 I’m currently learning **implementation of API**
-
-- 💬 Ask me about **Java, Kotlin and UI**
+- 💬 Ask me about **Java, HTML and CSS**
 
 - 📫 How to reach me **sanskritisandhyagupta@gmail.com**
 
