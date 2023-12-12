@@ -1,6 +1,6 @@
 ![logo](https://github.com/SanskritiHub/SanskritiHub/blob/main/Copy%20of%20Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sanskriti</h1>
-<h3 align="center">I am an aspiring Android Developer.</h3>
+<h3 align="center">I am an aspiring Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskritihub&label=Profile%20views&color=0e75b6&style=flat" alt="sanskritihub" /> </p>
 
