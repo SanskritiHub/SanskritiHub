@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Java, HTML and CSS**
 
-- 📫 How to reach me **sanskritisandhyagupta@gmail.com**
+- 📫 How to reach me **sanskritiii26@gmail.com**
 
 - ⚡ Fun fact **I think I am creative person.**
 
