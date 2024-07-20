@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskritihub&label=Profile%20views&color=0e75b6&style=flat" alt="sanskritihub" /> </p>
 
-- ⚡ Embarking on the journey of learning JavaScript. 
-
-- 💬 Ask me about **Java, HTML and CSS**
+- ⚡ Embarking on the journey of learning Front-End Web Development. 
 
 - 📫 How to reach me **sanskritiii26@gmail.com**
 
